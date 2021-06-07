@@ -1,0 +1,7 @@
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.LOREM.Actions.VerifyActionsCreation"/>
+    </classes>
+  </test>
+  </suite> 
